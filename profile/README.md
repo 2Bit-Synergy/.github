@@ -1,6 +1,6 @@
 # 2Bit Synergy - Software to Get Things Done.
 
-🚀 Unlocking Seamless Collaboration and Synergy in the Digital Realm.
+🚀 Sales • Operations • Maintenance • Marketing
 
 ## Overview
 
