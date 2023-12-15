@@ -1,10 +1,12 @@
-# 2Bit Synergy - Project Name
+# 2Bit Synergy - Software to Get Things Done.
 
 🚀 Unlocking Seamless Collaboration and Synergy in the Digital Realm.
 
 ## Overview
 
-Welcome to 2Bit Synergy! This repository embodies the power of collaboration through innovative solutions. Developed with cutting-edge technologies, 2Bit Synergy empowers teams to achieve unparalleled synergy in their digital workflows.
+With over 10 years experience in software development and industry experience, we aim to build software solutions that get encourages people engagement and achieving target.
+
+Our design doctrine includes human development in the process. From HR, to operations, and sales, we make it sure that all departments are integrated to keep your business running smoothly.
 
 ## Key Features
 
