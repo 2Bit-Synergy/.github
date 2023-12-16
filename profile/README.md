@@ -14,6 +14,10 @@ RMICS (Reliability Maintenance Information and Collaboration System - Django-bas
 
 Stellar HR
 
+## The Team
+Anjo A. Tadena
+Francis Carlo A. Tadena
+
 
 ![image](https://github.com/2Bit-Synergy/.github/assets/73011830/b54fc36d-2ddc-4c12-8485-5356db713419)
 
