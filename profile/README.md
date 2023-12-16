@@ -15,7 +15,7 @@ RMICS (Reliability Maintenance Information and Collaboration System - Django-bas
 Stellar HR
 
 ## The Team
-Anjo A. Tadena
+Anjo A. Tadena <br>
 Francis Carlo A. Tadena
 
 
